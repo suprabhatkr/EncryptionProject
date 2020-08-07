@@ -1,0 +1,289 @@
+input message   output message   key 
+Round 0
+ba 98 76 54   f0 13 c3 25   01 23 ab cd  
+32 10 01 23   98 9b cd ef   ef ab cd ef  
+45 67 89 ab   78 9b 58 bf   fe dc ba 98  
+cd ef 02 46   12 33 ba 97   76 54 32 10  
+                            01 23 45 67  
+                            89 ab cd ef  
+                            02 46 81 35  
+                            79 ab cd ef  
+Round 1
+f0 13 c3 25   a9 60 b8 71   12 3a bc de  
+98 9b cd ef   c7 ee 17 60   fa bc de ff  
+78 9b 58 bf   92 37 bc b7   ed cb a9 87  
+12 33 ba 97   f8 97 56 9d   65 43 21 00  
+                            12 34 56 78  
+                            9a bc de f0  
+                            24 68 13 57  
+                            9a bc de 01  
+Round 2
+a9 60 b8 71   96 71 1d 87   23 ab cd ef  
+c7 ee 17 60   97 1f b7 8d   ab cd ef fe  
+92 37 bc b7   d0 f4 d4 18   dc ba 98 76  
+f8 97 56 9d   b9 da 3f 3d   54 32 10 01  
+                            23 45 67 89  
+                            ab cd ef 02  
+                            46 81 35 79  
+                            ab cd e0 12  
+Round 3
+96 71 1d 87   d7 c3 2c d9   3a bc de fa  
+97 1f b7 8d   27 4d 60 e0   bc de ff ed  
+d0 f4 d4 18   d6 38 17 d6   cb a9 87 65  
+b9 da 3f 3d   b4 96 fb 7f   43 21 00 12  
+                            34 56 78 9a  
+                            bc de f0 24  
+                            68 13 57 9a  
+                            bc de 01 23  
+Round 4
+d7 c3 2c d9   b2 74 b2 0d   ab cd ef ab  
+27 4d 60 e0   58 dc 96 b2   cd ef fe dc  
+d6 38 17 d6   8e dd 46 56   ba 98 76 54  
+b4 96 fb 7f   fb f1 cc ff   32 10 01 23  
+                            45 67 89 ab  
+                            cd ef 02 46  
+                            81 35 79 ab  
+                            cd e0 12 3a  
+Round 5
+b2 74 b2 0d   ab 46 51 1b   bc de fa bc  
+58 dc 96 b2   68 8a a6 a3   de ff ed cb  
+8e dd 46 56   49 e3 3a 16   a9 87 65 43  
+fb f1 cc ff   40 eb d9 3f   21 00 12 34  
+                            56 78 9a bc  
+                            de f0 24 68  
+                            13 57 9a bc  
+                            de 01 23 ab  
+Round 6
+ab 46 51 1b   ff 45 54 48   cd ef ab cd  
+68 8a a6 a3   56 83 67 75   ef fe dc ba  
+49 e3 3a 16   f8 e2 31 96   98 76 54 32  
+40 eb d9 3f   91 ec e1 bf   10 01 23 45  
+                            67 89 ab cd  
+                            ef 02 46 81  
+                            35 79 ab cd  
+                            e0 12 3a bc  
+Round 7
+ff 45 54 48   7c 72 56 43   de fa bc de  
+56 83 67 75   07 72 11 7c   ff ed cb a9  
+f8 e2 31 96   bc e0 ef 9e   87 65 43 21  
+91 ec e1 bf   cd ee 23 b7   00 12 34 56  
+                            78 9a bc de  
+                            f0 24 68 13  
+                            57 9a bc de  
+                            01 23 ab cd  
+Round 8
+7c 72 56 43   a6 7a f6 89   ef ab cd ef  
+07 72 11 7c   ed 7c e4 4d   fe dc ba 98  
+bc e0 ef 9e   68 e3 c1 83   76 54 32 10  
+cd ee 23 b7   21 eb 51 d3   01 23 45 67  
+                            89 ab cd ef  
+                            02 46 81 35  
+                            79 ab cd e0  
+                            12 3a bc de  
+Round 9
+a6 7a f6 89   d5 aa d0 7c   fa bc de ff  
+ed 7c e4 4d   c2 08 ea 73   ed cb a9 87  
+68 e3 c1 83   db f9 b1 6f   65 43 21 00  
+21 eb 51 d3   ae d5 61 e5   12 34 56 78  
+                            9a bc de f0  
+                            24 68 13 57  
+                            9a bc de 01  
+                            23 ab cd ef  
+Round 10
+d5 aa d0 7c   92 72 3d f0   ab cd ef fe  
+c2 08 ea 73   88 6c 39 c7   dc ba 98 76  
+db f9 b1 6f   bc 12 ad b3   54 32 10 01  
+ae d5 61 e5   ce bc 65 a1   23 45 67 89  
+                            ab cd ef 02  
+                            46 81 35 79  
+                            ab cd e0 12  
+                            3a bc de fa  
+Round 11
+92 72 3d f0   b8 37 67 83   bc de ff ed  
+88 6c 39 c7   a5 b7 77 53   cb a9 87 65  
+bc 12 ad b3   78 db 2a 89   43 21 00 12  
+ce bc 65 a1   11 f3 e8 cd   34 56 78 9a  
+                            bc de f0 24  
+                            68 13 57 9a  
+                            bc de 01 23  
+                            ab cd ef ab  
+Round 12
+b8 37 67 83   48 a0 95 b7   cd ef fe dc  
+a5 b7 77 53   77 02 52 04   ba 98 76 54  
+78 db 2a 89   df f9 e7 78   32 10 01 23  
+11 f3 e8 cd   aa d5 2b dd   45 67 89 ab  
+                            cd ef 02 46  
+                            81 35 79 ab  
+                            cd e0 12 3a  
+                            bc de fa bc  
+Round 13
+48 a0 95 b7   81 fa 86 fd   de ff ed cb  
+77 02 52 04   ad e4 64 e1   a9 87 65 43  
+df f9 e7 78   e8 df 85 c4   21 00 12 34  
+aa d5 2b dd   a1 ef 8d 91   56 78 9a bc  
+                            de f0 24 68  
+                            13 57 9a bc  
+                            de 01 23 ab  
+                            cd ef ab cd  
+Round 14
+81 fa 86 fd   9a dd 29 1a   ef fe dc ba  
+ad e4 64 e1   60 9d 4d db   98 76 54 32  
+e8 df 85 c4   ed 02 15 88   10 01 23 45  
+a1 ef 8d 91   9d cc fd cd   67 89 ab cd  
+                            ef 02 46 81  
+                            35 79 ab cd  
+                            e0 12 3a bc  
+                            de fa bc de  
+Round 15
+9a dd 29 1a   ad db 1c 98   ff ed cb a9  
+60 9d 4d db   8d db 5e 5a   87 65 43 21  
+ed 02 15 88   78 19 49 ed   00 12 34 56  
+9d cc fd cd   12 b5 c9 69   78 9a bc de  
+                            f0 24 68 13  
+                            57 9a bc de  
+                            01 23 ab cd  
+                            ef ab cd ef  
+Round 16
+ad db 1c 98   9e 52 61 c2   fe dc ba 98  
+8d db 5e 5a   9c 55 8d 90   76 54 32 10  
+78 19 49 ed   7c 16 09 b1   01 23 45 67  
+12 b5 c9 69   0e b9 09 a5   89 ab cd ef  
+                            02 46 81 35  
+                            79 ab cd e0  
+                            12 3a bc de  
+                            fa bc de ff  
+Round 17
+9e 52 61 c2   6d 6c 52 55   ed cb a9 87  
+9c 55 8d 90   42 4f 9b d8   65 43 21 00  
+7c 16 09 b1   f0 76 0a bf   12 34 56 78  
+0e b9 09 a5   9a 59 08 96   9a bc de f0  
+                            24 68 13 57  
+                            9a bc de 01  
+                            23 ab cd ef  
+                            ab cd ef fe  
+Round 18
+6d 6c 52 55   43 d6 bd af   dc ba 98 76  
+42 4f 9b d8   53 d4 b9 c1   54 32 10 01  
+f0 76 0a bf   ef 51 95 ab   23 45 67 89  
+9a 59 08 96   9b 7d 7d aa   ab cd ef 02  
+                            46 81 35 79  
+                            ab cd e0 12  
+                            3a bc de fa  
+                            bc de ff ed  
+Round 19
+43 d6 bd af   39 b8 53 d3   cb a9 87 65  
+53 d4 b9 c1   26 39 7b 3f   43 21 00 12  
+ef 51 95 ab   78 94 ad bc   34 56 78 9a  
+9b 7d 7d aa   12 3a 65 99   bc de f0 24  
+                            68 13 57 9a  
+                            bc de 01 23  
+                            ab cd ef ab  
+                            cd ef fe dc  
+Round 20
+39 b8 53 d3   7b 3e 11 25   ba 98 76 54  
+26 39 7b 3f   70 bf 1a 11   32 10 01 23  
+78 94 ad bc   d0 36 e5 75   45 67 89 ab  
+12 3a 65 99   ba 98 2d e0   cd ef 02 46  
+                            81 35 79 ab  
+                            cd e0 12 3a  
+                            bc de fa bc  
+                            de ff ed cb  
+Round 21
+7b 3e 11 25   c1 ed 6c bc   a9 87 65 43  
+70 bf 1a 11   d9 fd 93 04   21 00 12 34  
+d0 36 e5 75   2c 5a 59 6a   56 78 9a bc  
+ba 98 2d e0   5e 74 b9 ec   de f0 24 68  
+                            13 57 9a bc  
+                            de 01 23 ab  
+                            cd ef ab cd  
+                            ef fe dc ba  
+Round 22
+c1 ed 6c bc   92 c3 d5 f9   98 76 54 32  
+d9 fd 93 04   6a 34 b0 49   10 01 23 45  
+2c 5a 59 6a   00 e3 a9 7c   67 89 ab cd  
+5e 74 b9 ec   89 eb 69 d9   ef 02 46 81  
+                            35 79 ab cd  
+                            e0 12 3a bc  
+                            de fa bc de  
+                            ff ed cb a9  
+Round 23
+92 c3 d5 f9   af 85 05 33   87 65 43 21  
+6a 34 b0 49   bf b9 6f 00   00 12 34 56  
+00 e3 a9 7c   87 66 48 6f   78 9a bc de  
+89 eb 69 d9   03 68 ca e6   f0 24 68 13  
+                            57 9a bc de  
+                            01 23 ab cd  
+                            ef ab cd ef  
+                            fe dc ba 98  
+Round 24
+af 85 05 33   8c ff bc 34   76 54 32 10  
+bf b9 6f 00   a1 56 0c 7c   01 23 45 67  
+87 66 48 6f   75 56 d6 29   89 ab cd ef  
+03 68 ca e6   15 78 3d 2d   02 46 81 35  
+                            79 ab cd e0  
+                            12 3a bc de  
+                            fa bc de ff  
+                            ed cb a9 87  
+Round 25
+8c ff bc 34   8b 7c 50 79   65 43 21 00  
+a1 56 0c 7c   6e 48 f2 58   12 34 56 78  
+75 56 d6 29   c9 d4 17 11   9a bc de f0  
+15 78 3d 2d   c0 fa fc 44   24 68 13 57  
+                            9a bc de 01  
+                            23 ab cd ef  
+                            ab cd ef fe  
+                            dc ba 98 76  
+Round 26
+8b 7c 50 79   ed 96 0d 79   54 32 10 01  
+6e 48 f2 58   29 a7 bb d7   23 45 67 89  
+c9 d4 17 11   43 f5 4b a2   ab cd ef 02  
+c0 fa fc 44   46 d9 c7 b3   46 81 35 79  
+                            ab cd e0 12  
+                            3a bc de fa  
+                            bc de ff ed  
+                            cb a9 87 65  
+Round 27
+ed 96 0d 79   3b 17 76 9b   43 21 00 12  
+29 a7 bb d7   79 3c ac a9   34 56 78 9a  
+43 f5 4b a2   ca 74 2e 29   bc de f0 24  
+46 d9 c7 b3   c0 5a e5 2c   68 13 57 9a  
+                            bc de 01 23  
+                            ab cd ef ab  
+                            cd ef fe dc  
+                            ba 98 76 54  
+Round 28
+3b 17 76 9b   ac 28 ab 15   32 10 01 23  
+79 3c ac a9   39 53 84 44   45 67 89 ab  
+ca 74 2e 29   24 68 91 13   cd ef 02 46  
+c0 5a e5 2c   66 66 82 42   81 35 79 ab  
+                            cd e0 12 3a  
+                            bc de fa bc  
+                            de ff ed cb  
+                            a9 87 65 43  
+Round 29
+ac 28 ab 15   63 4a a5 10   21 00 12 34  
+39 53 84 44   d0 35 c9 7d   56 78 9a bc  
+24 68 91 13   30 7d 5f eb   de f0 24 68  
+66 66 82 42   5a 51 b3 6a   13 57 9a bc  
+                            de 01 23 ab  
+                            cd ef ab cd  
+                            ef fe dc ba  
+                            98 76 54 32  
+Round 30
+63 4a a5 10   36 b2 a5 b7   10 01 23 45  
+d0 35 c9 7d   da 8a 30 57   67 89 ab cd  
+30 7d 5f eb   6f b1 11 e7   ef 02 46 81  
+5a 51 b3 6a   1b 1e 01 6e   35 79 ab cd  
+                            e0 12 3a bc  
+                            de fa bc de  
+                            ff ed cb a9  
+                            87 65 43 21  
+Round 31
+36 b2 a5 b7   7e 8a ff ca   00 12 34 56  
+da 8a 30 57   a2 68 db 8a   78 9a bc de  
+6f b1 11 e7   d7 32 34 2a   f0 24 68 13  
+1b 1e 01 6e   b3 9c df 2b   57 9a bc de  
+                            01 23 ab cd  
+                            ef ab cd ef  
+                            fe dc ba 98  
+                            76 54 32 10  
